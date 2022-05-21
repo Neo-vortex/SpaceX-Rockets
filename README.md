@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This app shows latest Rockets by SpaceX cmpany with budget, info and many other infos!
+
+##Screenshots
+
+![image](https://user-images.githubusercontent.com/40230471/169636040-79e497c2-5fa3-4bab-ad9e-b01857aab8c2.png)
+
+
 
 ## Getting Started
 
